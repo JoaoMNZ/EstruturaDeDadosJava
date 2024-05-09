@@ -1,5 +1,3 @@
-package Lista;
-
 public class LinkedList<T> {
     private Node<T> head;
     private Node<T> tail;
